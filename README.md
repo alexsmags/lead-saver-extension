@@ -3,7 +3,7 @@ A tool that allows you to save a potential client's profile.
 
 # Technologies
 
-This extension was built using JavaScript, CSS, HTML & JSON
+This extension was built using JavaScript, CSS, HTML & JSON.
 
 # Screenshots
 ### Chrome view
