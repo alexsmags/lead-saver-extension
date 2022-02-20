@@ -5,7 +5,7 @@ A tool that allows you to save a potential client's profile.
 
 This extension was built using JavaScript, CSS, HTML & JSON
 
-# Screenshots!
+# Screenshots
 ### Chrome view
 
 ![Main3](https://user-images.githubusercontent.com/94199172/154835151-b736f1ec-4dbc-4f92-8ceb-e23d9a1c2f55.png)
